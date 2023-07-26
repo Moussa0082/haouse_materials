@@ -198,7 +198,7 @@
                                         <th class="text-center" style="width: 8%;">Prix</th>
                                         <th class="text-center" style="width: 8%;">Quantité</th>
                                         <th class="text-center" style="width: 8%;">Prix</th>
-                                        <th class="text-center" style="width: 24%;">Image</th>
+                                        <th class="text-center" style="width: 15%;">Image</th>
                                         <th class="text-center" style="width: 22%;">Modifier</th>
                                         <th class="text-center" style="width: 8%;">Supprimer</th>
                                     </tr>

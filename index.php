@@ -89,7 +89,7 @@
 						</script> 
 				</div>
 				<div class="col-md-5 w3agile_special_deals_grid_right">
-					<img src="images/20.jpg" alt=" " class="img-responsive" />
+					<img src="images/or2.jpg" alt=" " class="img-responsive" />
 					<div class="w3agile_special_deals_grid_right_pos">
 						<h4>Women's <span>Special</span></h4>
 						<h5>save up <span>to</span> 30%</h5>

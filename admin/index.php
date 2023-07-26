@@ -1,4 +1,20 @@
-    <?php include 'adminHader.php'; ?>
+    <?php include 'adminHader.php';
+    
+    function getTotalProducts() {
+      global $db;
+  
+         
+  $query = $db->query('SELECT SUM(*) AS total FROM ecom_product');
+                 
+  $result = $query->fetch();
+                  
+  return $result['total'];
+      
+  }
+  
+  $total_products = getTotalProducts();
+    
+    ?>
         <!-- /top navigation -->
 
         <!-- page content -->

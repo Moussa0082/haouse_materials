@@ -1,7 +1,6 @@
 <?php
 /**
  * Config File of The Template
- * Created by PhpStorm.
  * User: Moussa Bane
  * Date: 17/10/2022
  * Time: 6:52 AM

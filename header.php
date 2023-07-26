@@ -24,6 +24,8 @@
     $cartObject         = new Cart();
     $formateObject      = new Formate();
     $allCategoryObject  = new AllCategory();
+
+    $cartObject->clearCartForNewUser();
 ?>
 <!DOCTYPE html>
 <html lang="<?php echo $_SERVER['HTTP_ACCEPT_LANGUAGE']?>">
